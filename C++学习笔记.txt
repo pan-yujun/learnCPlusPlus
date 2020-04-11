@@ -1,0 +1,5 @@
+获取数组长度
+sizeof(list)/sizeof(list[0])
+
+strcpy_s(this->str,100, str); //安全复制
+需  include "Cstring"
